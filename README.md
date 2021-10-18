@@ -13,6 +13,8 @@ Reading from Serial Port
 ![serial_port](https://user-images.githubusercontent.com/72607039/137673281-a484fc63-ef42-4b0b-8144-1e21981d75c8.gif)
 
 
+![pico_inside](https://user-images.githubusercontent.com/72607039/137674416-72876219-e786-437b-9c21-60def54fdb62.jpg)
+
 
 Plotting data
 
