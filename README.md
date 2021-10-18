@@ -14,7 +14,9 @@ Reading from Serial Port
 
 
 
-Plotting data 
+Plotting data
+
+
 ![129654214-7aff1a58-d4bf-47b4-ad90-a22a1127f7c8 (1)](https://user-images.githubusercontent.com/72607039/137673848-627980c2-1fad-4c00-9bec-308e448c84af.png)
 
 
