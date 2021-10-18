@@ -5,8 +5,7 @@ Read and Plot Data  from a Serial Port -  Raspberry Pico - VS CODE | Pico-Go VS 
 Unlike boards like Heltect esp32 that comes with an OLED display, raspberry pico needs to connect one or read data for further display in a terminal.
 Here i gonna show you two ways to read and display Rp Pico data.
 
-Data read from serial port (Temperature of a computer cabinet)
-
+Data read from the serial port (Temperature in a computer cabinet)
 
 Reading from Serial Port
 
